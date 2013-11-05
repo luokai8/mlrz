@@ -19,5 +19,6 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang-2.4.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.1.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/ezmorph-1.0.4.jar"/>
-	<classpathentry kind="output" path="build/classes"/>
+	<classpathentry kind="con" path="com.baidu.bdt.bae.java.SDK_CONTAINER"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
